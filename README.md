@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Author-byprogram-orange.svg)](https://github.com/byprogram)
 [![](https://img.shields.io/badge/version-1.0-brightgreen.svg)]([https://github.com/byprogram/telegram-kuaisan-bot])<br>
 <br>
-[English](https://github.com/byprogram/telegram-kuaisan-bot/blob/main/README_en.md) | 简体中文<br>
+[English](https://github.com/byprogram/telegram-kuaisan-bot-v1.0/blob/main/README_en.md) | 简体中文<br>
 ![gvwgr-kre33](https://user-images.githubusercontent.com/92509765/205933725-217c499c-779b-44e3-824d-e92fca217ab5.gif)
 ## 付费版本（仅售100USDT）
 - 支持后台管理系统，可以查看各类数据<br>
@@ -33,7 +33,7 @@ var chatid = 123456; //发送群或用户的id
 var periodTime = 10; //每一期开奖的间隔，默认10秒
 var inline_keyboard = [ //内联键盘
     [{ text: '点数统计', callback_data: '1' },{ text: '长龙统计', callback_data: '2' }], 
-    [{ text: '项目介绍', callback_data: '3' ,url:"https://github.com/byprogram/telegram-kuaisan-bot"}],
+    [{ text: '项目介绍', callback_data: '3' ,url:"https://github.com/byprogram/telegram-kuaisan-bot-v1.0"}],
     [{ text: '联系作者', callback_data: '4' ,url:"https://t.me/byprogram"}]
 ]
 /*配置区结束*/

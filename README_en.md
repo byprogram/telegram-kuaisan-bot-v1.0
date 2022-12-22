@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Author-byprogram-orange.svg)](https://github.com/byprogram)
 [![](https://img.shields.io/badge/version-1.0-brightgreen.svg)]([https://github.com/byprogram/telegram-kuaisan-bot])<br>
 <br>
-English | [简体中文](https://github.com/byprogram/telegram-kuaisan-bot/blob/main/README.md)<br>
+English | [简体中文](https://github.com/byprogram/telegram-kuaisan-bot-v1.0/blob/main/README.md)<br>
 ![gvwgr-kre33](https://user-images.githubusercontent.com/92509765/205933725-217c499c-779b-44e3-824d-e92fca217ab5.gif)
 
 ## Paid version (100USDT only)
@@ -34,7 +34,7 @@ var chatid = 123456; //the group id
 var periodTime = 10; //The interval between each lottery draw is 10 seconds by default
 var inline_keyboard = [ // set Inlinekeyboard
     [{ text: 'Point statistics', callback_data: '1' },{ text: 'Long Dragon Statistics', callback_data: '2' }], 
-    [{ text: 'Project introduction', callback_data: '3' ,url:"https://github.com/byprogram/telegram-kuaisan-bot"}],
+    [{ text: 'Project introduction', callback_data: '3' ,url:"https://github.com/byprogram/telegram-kuaisan-bot-v1.0"}],
     [{ text: 'Contact Author', callback_data: '4' ,url:"https://t.me/zhangsan666888"}]
 ]
 /*End of configuration area*/
