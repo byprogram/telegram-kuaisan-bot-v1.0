@@ -11,8 +11,8 @@
 - 支持加拿大28和快三玩法，也可以对接其他玩法
 - Demo预览
     - [后台管理系统演示](http://3.0.96.211/) `账号:admin 密码:admin`<br>
-    - [快三tg群演示](https://t.me/+m8Ezr3RdrS9hNGI1)
-    - [加拿大28tg群演示](https://t.me/+4Fi3FaxqMLo0Yzg1)
+    - [快三tg群演示](https://t.me/kuai3_demo)
+    - [加拿大28tg群演示](https://t.me/jnd28_demo)
     - [USDT自助充值提现机器人](https://t.me/czby_bot)
 ## 使用方法
 1.[申请](https://t.me/BotFather)一个telegram机器人,获取token<br>
