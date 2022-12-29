@@ -12,8 +12,8 @@ English | [简体中文](https://github.com/byprogram/telegram-kuaisan-bot-v1.0/
 - Support Canada 28 and Kuaisan games, and can also be connected to other games
 - demo preview
     - [Background management system demo ](http://3.0.96.211/) `Username:admin Password:admin`<br>
-    - [Kuaisan telegram group demo](https://t.me/+m8Ezr3RdrS9hNGI1)
-    - [Canada 28 telegram Group Demo](https://t.me/+4Fi3FaxqMLo0Yzg1)
+    - [Kuaisan telegram group demo](https://t.me/kuai3_demo)
+    - [Canada 28 telegram Group Demo](https://t.me/jnd28_demo)
     - [USDT self-service deposit and withdrawal robot](https://t.me/czby_bot)
 ## Instructions
 1.[Apply](https://t.me/BotFather) for a telegram robot and get the token<br>
