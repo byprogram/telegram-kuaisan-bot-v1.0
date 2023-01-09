@@ -14,6 +14,7 @@
     - [快三tg群演示](https://t.me/kuai3_demo)
     - [加拿大28tg群演示](https://t.me/jnd28_demo)
     - [USDT自助充值提现机器人](https://t.me/czby_bot)
+    - [TRX自助充值提现机器人](https://t.me/TRXCZBOT)
 ## 使用方法
 1.[申请](https://t.me/BotFather)一个telegram机器人,获取token<br>
 2.新建telegram群组，邀请机器人进群，给予管理员权限<br>
