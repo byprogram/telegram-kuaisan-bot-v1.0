@@ -10,7 +10,7 @@
 - 支持主流玩法，如大小大双顺子对子豹子等等
 - 支持加拿大28和快三玩法，也可以对接其他玩法
 - Demo预览
-    - [后台管理系统演示](http://3.0.96.211/) `账号:admin 密码:admin`<br>
+    - [后台管理系统演示](http://ksadmin.byprogram.xyz/) `账号:admin 密码:admin`<br>
     - [快三tg群演示](https://t.me/kuai3_demo)
     - [加拿大28tg群演示](https://t.me/jnd28_demo)
     - [USDT自助充值提现机器人](https://t.me/czby_bot)
