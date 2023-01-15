@@ -21,7 +21,7 @@
 3.安装[Node.js](https://nodejs.org/en/)和[MySQL](https://www.mysql.com/)<br>
 4.新建MySQL数据库，导入telegram.sql文件<br>
 5.修改index.js文件中配置，在根目录终端输入 `node index` 启动程序<br>
-```javascrit
+``` javascript
 /*配置区开始*/
 var pool = mysql.createPool({
     port:3306, //mysql端口
