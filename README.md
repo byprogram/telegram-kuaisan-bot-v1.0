@@ -4,7 +4,7 @@
 <br>
 [English](https://github.com/byprogram/telegram-kuaisan-bot-v1.0/blob/main/README_en.md) | 简体中文<br>
 ![gvwgr-kre33](https://user-images.githubusercontent.com/92509765/205933725-217c499c-779b-44e3-824d-e92fca217ab5.gif)
-## 付费版本，可直接运营（仅售400USDT）
+## 付费版本，提供全套服务，付款后可直接运营（仅售400USDT）
 - 支持后台管理系统，可以查看各类数据<br>
 - 支持USDT、TRX自助充值提现，也可选择人工充值提现
 - 支持主流玩法，如大小大双顺子对子豹子等等
