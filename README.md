@@ -41,7 +41,7 @@ var inline_keyboard = [ //内联键盘
 /*配置区结束*/
 ```
 ## 技术疑问交流
-Telegram：[@byprogram](https://t.me/byprogram)<br>
+Telegram：[@byprogram](https://t.me/byprogramer)<br>
 个人主页：https://www.byprogram.xyz/
 ## 声明
 本项目仅供技术研究，请勿用于任何商业用途，请勿用于非法用途，如有任何人凭此做非法事情，均于作者无关，特此声明。
